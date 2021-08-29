@@ -1,2 +1,2 @@
-# react-dc-js-sample
+# react-kendo-samples
 Created with CodeSandbox
